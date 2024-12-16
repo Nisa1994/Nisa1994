@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi There 👋
 
-<!--
-**Nisa1994/Nisa1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me:
+Someone with a business and a data science background, to enable data driven and AI assisted business strategies!  
 
-Here are some ideas to get you started:
+👩‍💻 Currently Employed at Pluxee Group as a Merchant Business Analyst Germany & Austria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💼 Last Employed at the Volkswagen Group Data Lab as a Working Student Developer's Advocate
+
+🎓 Master in Quantitative Management Science: Business Analytics & Data Science 
+
+🎓 Master in Business Administration (MBA) 
+
+🗂️ You can expect different repositories in my profile that deal with data analysis, data science modelling, and AI automation etc that ultimately target "Business Intelligence" 
+
+🎯 My goal is to use data science and AI for business decisions and strategies!  
+
+
+
+## 💻 Tech Stack:
+
+
+## 🌐 Socials:
+
+
+## 🤸‍♀️ Hobbies:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
