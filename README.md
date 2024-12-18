@@ -25,6 +25,10 @@ Someone with a business and a data science background, to enable data driven and
 
 ## 🤸‍♀️ Hobbies:
 
+📚  🏓  👩‍🍳  🎨  🛫
+
+
+
 
 
 
